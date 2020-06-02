@@ -1,0 +1,11 @@
+/Users/IS2012/Projects/Проект/Проект/obj/Debug/netcoreapp2.1/Проект.csprojAssemblyReference.cache
+/Users/IS2012/Projects/Проект/Проект/obj/Debug/netcoreapp2.1/Проект.csproj.CoreCompileInputs.cache
+/Users/IS2012/Projects/Проект/Проект/obj/Debug/netcoreapp2.1/Проект.AssemblyInfoInputs.cache
+/Users/IS2012/Projects/Проект/Проект/obj/Debug/netcoreapp2.1/Проект.AssemblyInfo.cs
+/Users/IS2012/Projects/Проект/Проект/bin/Debug/netcoreapp2.1/Проект.deps.json
+/Users/IS2012/Projects/Проект/Проект/bin/Debug/netcoreapp2.1/Проект.runtimeconfig.json
+/Users/IS2012/Projects/Проект/Проект/bin/Debug/netcoreapp2.1/Проект.runtimeconfig.dev.json
+/Users/IS2012/Projects/Проект/Проект/bin/Debug/netcoreapp2.1/Проект.dll
+/Users/IS2012/Projects/Проект/Проект/bin/Debug/netcoreapp2.1/Проект.pdb
+/Users/IS2012/Projects/Проект/Проект/obj/Debug/netcoreapp2.1/Проект.dll
+/Users/IS2012/Projects/Проект/Проект/obj/Debug/netcoreapp2.1/Проект.pdb
